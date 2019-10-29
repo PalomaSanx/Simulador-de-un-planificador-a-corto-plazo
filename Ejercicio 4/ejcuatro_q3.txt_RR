@@ -1,0 +1,37 @@
+Datos de la CPU
+
+Linea de tiempo:
+- nop - nop - nop - A - A - A - B - B - B - A - A - A - C - C - D - D - D - E - A - A - A - D - D -
+Uso de la CPU en tanto por ciento: 86.956519%
+
+PROCESOS
+Nombre de proceso B
+Acaba en el ciclo 9
+Tiempo Permanencia = 4
+Tiempo de Respuesta = 1
+Tiempo de Espera = 1
+
+Nombre de proceso C
+Acaba en el ciclo 14
+Tiempo Permanencia = 7
+Tiempo de Respuesta = 5
+Tiempo de Espera = 5
+
+Nombre de proceso E
+Acaba en el ciclo 18
+Tiempo Permanencia = 7
+Tiempo de Respuesta = 6
+Tiempo de Espera = 6
+
+Nombre de proceso A
+Acaba en el ciclo 21
+Tiempo Permanencia = 18
+Tiempo de Respuesta = 0
+Tiempo de Espera = 9
+
+Nombre de proceso D
+Acaba en el ciclo 23
+Tiempo Permanencia = 15
+Tiempo de Respuesta = 6
+Tiempo de Espera = 10
+
